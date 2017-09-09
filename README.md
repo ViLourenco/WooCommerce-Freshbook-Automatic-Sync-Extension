@@ -7,7 +7,9 @@ This is a plugin to automatically update your order status based on the freshboo
 Just install and active the plugin, done, that's all!
 For now the plugin is working with a cron, being fired hourly.
 
-Obs.: You need first of all are aleady using the plugins WooCommerce Freshbooks and also have added your Fresbook API credentials.
+Obs.: Probably you know this, but:
+1. First of all are already using the plugins WooCommece and WooCommerce Freshbooks
+2. Have added your Fresbook API credentials.
 
 ## Things that I need to fix/improve
 
