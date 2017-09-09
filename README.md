@@ -9,8 +9,11 @@ For now the plugin is working with a cron, being fired hourly.
 
 Obs.: You need first of all are aleady using the plugins WooCommerce Freshbooks and also have added your Fresbook API credentials.
 
-## Somethings that I need to fix/improve
+## Things that I need to fix/improve
 
 * Add an options page to set more options to fire the cron (e.g: daily, weekly... and also with custom time.)
 * Add compatibility to use with WooCommerce 3.0 earlier versions.
+
+Pull-requests are incredibly welcome, lol!
+If need to contact me for any reason, go ahead: @vilourenco on twitter!
 
