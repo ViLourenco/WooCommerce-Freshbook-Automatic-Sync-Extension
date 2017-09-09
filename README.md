@@ -1,6 +1,7 @@
 # WooCommerce Freshbook Automatic Sync Extension
 
 This is a plugin to automatically update your order status based on the freshbook invoices status.
+* Currently working only up to WC 3.0 versions! (Compatibility with earlier versions are in my backlog).*
 
 ## How to use?
 
@@ -13,8 +14,8 @@ Obs.: Probably you know this, but:
 
 ## Things that I need to fix/improve
 
-* Add an options page to set more options to fire the cron (e.g: daily, weekly... and also with custom time).
-* Add compatibility to use with WooCommerce 3.0 earlier versions.
+- [ ] Add an options page to set more options to fire the cron (e.g: daily, weekly... and also with custom time).
+- [ ] Add compatibility to use with WooCommerce 3.0 earlier versions.
 
 Pull-requests are incredibly welcome, lol!
 If need to contact me for any reason, go ahead: @vilourenco on twitter!
