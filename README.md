@@ -1,6 +1,7 @@
 # WooCommerce Freshbook Automatic Sync Extension
 
 This is a plugin to automatically update your order status based on the freshbook invoices status.
+
 *Currently working only up to WC 3.0 versions! (Compatibility with earlier versions are in my backlog).*
 
 ## How to use?
